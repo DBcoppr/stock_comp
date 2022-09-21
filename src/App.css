@@ -1,0 +1,10 @@
+
+.gr{
+  width: 600px;
+}
+
+#pac{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
